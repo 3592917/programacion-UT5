@@ -90,6 +90,7 @@ public class Principal {
                     int entradaAnnio;
                     boolean fechaValida;
                     LocalDate fecha;
+
                     do {
                         System.out.println("Día: ");
                         entradaDia = sc.nextInt();
